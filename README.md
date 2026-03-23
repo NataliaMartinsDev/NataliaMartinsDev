@@ -63,8 +63,8 @@ Sistema de agendamento de doação de sangue
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:naty_martins01@zohomail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white"/>
+</a>
 </div>
 
 ---
