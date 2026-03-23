@@ -1,68 +1,72 @@
-<h2 align="center">E aí, galera! 👋<br>✨seja bem-vindo(a) ao meu cantinho no GitHub!✨</h2>
+<h2 align="center">Olá, eu sou a Natália Martins Ribeiro 👋</h2>
+<h4 align="center">Desenvolvedora Front-End em formação</h4>
 
-###
+---
 
-<br clear="both">
+## 💻 Sobre mim
 
-<h4 align="center">Me chamo Natália, tenho 19 anos e moro em Taboão da Serra-SP !</h4>
+Desenvolvedora Front-End em formação, com experiência prática no desenvolvimento e manutenção de sistemas web.
 
-###
+Atuo na criação de interfaces modernas, responsivas e funcionais, utilizando HTML, CSS e JavaScript, além de integração com APIs. Estou em constante evolução, buscando aprimorar minhas habilidades técnicas e construir soluções digitais que impactem positivamente a experiência do usuário.
 
-<p align="left">Sobre mim:<br>🤓Atualmente estou cursando Análise e Desenvolvimento de Sistemas e focando em front-end.<br>Se você também está começando ou tem dicas para compartilhar, ficarei feliz em ouvir! Vamos juntos nessa jornada de aprendizado e troca de conhecimento!  🚀</p>
+---
 
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/nat%C3%A1lia-martins-naty-martins-8757a728a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/naty_martins01?igsh=aWNkdGx1OGswaGJw&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:n.martinsribeiro2002@gmail.com?subject=Link do github &body=" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
+## 🚀 Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=natymartinsgit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=false&order=1" height="131" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natymartinsgit&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=radical&hide_border=false&order=2" height="105" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
 </div>
 
-###
+---
 
-<br clear="both">
+## 📌 Projetos em destaque
+
+💉 **DoeVida (em desenvolvimento)**  
+Sistema de agendamento de doação de sangue  
+- Integração com APIs (Google Calendar e EmailJS)  
+- Autenticação com login Google  
+- Uso de banco de dados (MongoDB)  
+- Foco em impacto social  
+
+👗 **Diário da Moda**  
+- Interface responsiva e moderna  
+- Busca dinâmica com JavaScript  
+- Foco em experiência do usuário (UX/UI)  
+
+🎮 **Jogo do Número Secreto**  
+- Aplicação interativa com JavaScript  
+- Código organizado e reutilizável  
+
+---
+
+## 📊 Estatísticas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=natymartinsgit&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natymartinsgit&layout=compact&theme=radical" height="150"/>
 </div>
 
-###
+---
 
-<br clear="both">
+## 📫 Contato
 
-<img src="https://raw.githubusercontent.com/natymartinsgit/natymartinsgit/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31hbygfr6zzedl77of4d7r4652be">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hbygfr6zzedl77of4d7r4652be&count=1&unique=true" alt="Spotify recently played"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/natymartinsdev/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:naty_martins01@zohomail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
-###
+---
+
+✨ Obrigada por visitar meu perfil!
