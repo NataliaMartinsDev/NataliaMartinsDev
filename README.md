@@ -11,7 +11,7 @@ Atuo na criação de interfaces modernas, responsivas e funcionais, utilizando H
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+# 🚀 Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
