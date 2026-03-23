@@ -50,8 +50,8 @@ Sistema de agendamento de doação de sangue
 ## 📊 Estatísticas
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=natymartinsgit&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natymartinsgit&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NataliaMartinsDev&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NataliaMartinsDev&layout=compact&theme=radical" height="150"/>
 </div>
 
 ---
