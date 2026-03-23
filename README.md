@@ -47,7 +47,7 @@ Sistema de agendamento de doação de sangue
 
 ---
 
-## ## 📈 Atividade no GitHub
+## 📈 Atividade no GitHub
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NataliaMartinsDev&show_icons=true&theme=radical" height="150"/>
