@@ -1,5 +1,5 @@
 <h2 align="center">Olá, eu sou a Natália Martins Ribeiro 👋</h2>
-<h4 align="center">Desenvolvedora Front-End em formação</h4>
+<h4 align="center">Desenvolvedora Front-End </h4>
 
 ---
 
